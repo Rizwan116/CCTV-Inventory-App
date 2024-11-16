@@ -1,3 +1,38 @@
+# React CRUD App with Coming Soon Pages
+
+This is a simple React application that demonstrates a CRUD system with routing for different pages, including dynamic "Coming Soon" pages for various features. The app also includes a navigation bar and a footer.
+
+## Features
+
+- **Home Page**: Displays a list of items with options to update or delete them.
+- **Update Item Page**: Allows users to update an existing item.
+- **Coming Soon Pages**: Dynamic pages for features that are under development. Each page is accessible through URLs like `/coming-soon/1`, `/coming-soon/2`, etc.
+- **Navbar**: A responsive navigation bar with links to the Home page and the Coming Soon pages.
+- **Footer**: A simple footer with a copyright notice.
+
+## Prerequisites
+
+Before running the app, make sure you have the following installed:
+
+- Node.js (LTS version recommended)
+- npm or yarn (for package management)
+
+## Installation
+
+Follow these steps to set up and run the project locally:
+
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone <your-repository-url>
+   cd <your-project-directory>
+
+
+### Notes:
+- Replace `<your-repository-url>` with the actual URL of your GitHub repository if you're hosting the project there.
+- Make sure your dependencies in `package.json` are up-to-date and correctly listed (i.e., React, React Router).
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
