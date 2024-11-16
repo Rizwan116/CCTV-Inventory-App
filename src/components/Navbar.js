@@ -6,7 +6,7 @@ const Navbar = () => {
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
       <div className="container">
         {/* Left side (empty for now) */}
-        <div className="navbar-brand">Logo</div>
+        <div className="navbar-brand">CCTV Inventory</div>
 
         {/* Right side (logo and navigation links) */}
         <div className="d-flex ms-auto">
